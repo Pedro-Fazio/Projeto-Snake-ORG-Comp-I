@@ -1,12 +1,12 @@
 # Projeto-Snake-ORG-Comp-I
-Desenvolvimento do jogo Snake em Assembly para a disciplina Organização de Computadores Digitais, ministrada no 1º semestre de Sistemas de Informação pelo professor Eduardo do Valle Simões(https://github.com/simoesusp/SSC0511-Organizacao-de-Computadores-Digitais)
 
-### Nota:
+Development of the Snake game in Assembly for the Digital Computer Organization course, taught in the 1st semester of Information Systems by Professor Eduardo do Valle Simões (https://github.com/simoesusp/SSC0511-Organizacao-de-Computadores-Digitais).
 
-Este projeto tem como intuito familiarizar o aluno com a linguagem assembly. Para isso foi necessário um entendimento de pilhas(push pop), processador(registradores, memoria, ULA) e as mais basicas operações(ADD, SUB, MOD, GOTO, JMP, PUSH, POP, LOAD/STORE, INCHAR, OUTCHAR).
+**Note:**
+This project aims to familiarize the student with Assembly language. To achieve this, it required an understanding of stacks (push/pop), the processor (registers, memory, ALU), and the most basic operations (ADD, SUB, MOD, GOTO, JMP, PUSH, POP, LOAD/STORE, INCHAR, OUTCHAR).
 
-Para o desenvolvimento foi necessária muita atenção e organização visto que o código possui milhares de linhas e é mais complicado de debugar comparado com linguagens de alto nivel, para uma maior compreensão a maioria das instruções foram comentadas explicando o propósito para o programa.
+Development required intense focus and organization, given that the code has thousands of lines and is much more complex to debug compared to high-level languages. For better readability, most instructions were commented to explain their specific purpose within the program.
 
-Para executar o jogo é necessário descompactar o arquivo Snake.rar, em seguida abrir o sublime_text que encontra-se dentro de Simulador\Sublime Text 3. Em seguida é necessário abrir o código fonte do jogo pelo sublime(botão esquerdo em "File" e em "Open File") o código fonte está dentro da basta "Simulador" com o nome "trabalho.asm".
+To run the game, you must extract the `Snake.rar` archive and then open `sublime_text.exe`, which is located inside the `Simulador\Sublime Text 3` directory. Next, open the game's source code using Sublime (click on "File" > "Open File"). The source code is located inside the `Simulador` folder under the name `trabalho.asm`.
 
-Com o código fonte aberto no sublime modificado, pressione F7 para simular o jogo e HOME para iniciar o jogo.
+With the source code open in the modified Sublime Text, press `F7` to simulate the code and `HOME` to start the game.
